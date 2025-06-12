@@ -17,4 +17,4 @@ def vcs_init(path='.'):
     print(f"Initialized empty VCS repository in {os.path.abspath(vcs_dir)}")
 
 
-vcs_init()
+# vcs_init()
